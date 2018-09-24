@@ -1,0 +1,11 @@
+{
+	"files": {
+		"index.js": "440f22094dcbb3501683877f795f1787a7b833902fdface54456eb1dd8834ba1",
+		"module.json": "594838afe5a5c39404f24447c0e9a6da472c4ff8f8a99979e636ce8738ac69ed"
+	},
+	"defs": {
+		"C_MERGE_ITEM_EXECUTE": 1,
+		"S_CANCEL_CONTRACT": 1,
+		"S_REQUEST_CONTRACT": 1
+	}
+}
